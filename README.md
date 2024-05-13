@@ -1,6 +1,6 @@
 #esp32 wificontrol system
 
-這個專案做後會用於操控機器人（車 狗等）的行動, 它具有esp32 cam系列的所有功能, 包括鏡頭, I2C(用於控制PCA), 以及WIFI連接的APP介面(採延遲較低的WEBskote 技術)
+這個專案會用於操控機器人（車 狗等）的行動, 它具有esp32 cam系列的所有功能, 包括鏡頭, I2C(用於控制PCA), 以及WIFI連接的APP介面(採延遲較低的WEBskote 技術)
 
 開發進度:
 
